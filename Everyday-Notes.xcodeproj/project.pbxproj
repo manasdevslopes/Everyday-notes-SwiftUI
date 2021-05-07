@@ -13,6 +13,66 @@
 		FDCAE328263E8F6E00A2D48A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE313263E8F6800A2D48A /* ContentView.swift */; };
 		FDCAE329263E8F6E00A2D48A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE314263E8F6E00A2D48A /* Assets.xcassets */; };
 		FDCAE32A263E8F6E00A2D48A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE314263E8F6E00A2D48A /* Assets.xcassets */; };
+		FDCAE341263E90CB00A2D48A /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE338263E90CB00A2D48A /* Ubuntu-Medium.ttf */; };
+		FDCAE342263E90CB00A2D48A /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE338263E90CB00A2D48A /* Ubuntu-Medium.ttf */; };
+		FDCAE343263E90CB00A2D48A /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE339263E90CB00A2D48A /* Ubuntu-Regular.ttf */; };
+		FDCAE344263E90CB00A2D48A /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE339263E90CB00A2D48A /* Ubuntu-Regular.ttf */; };
+		FDCAE345263E90CB00A2D48A /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33A263E90CB00A2D48A /* Ubuntu-Bold.ttf */; };
+		FDCAE346263E90CB00A2D48A /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33A263E90CB00A2D48A /* Ubuntu-Bold.ttf */; };
+		FDCAE347263E90CB00A2D48A /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33B263E90CB00A2D48A /* Ubuntu-Light.ttf */; };
+		FDCAE348263E90CB00A2D48A /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33B263E90CB00A2D48A /* Ubuntu-Light.ttf */; };
+		FDCAE349263E90CB00A2D48A /* Nocturne-Serif-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33D263E90CB00A2D48A /* Nocturne-Serif-Bold.otf */; };
+		FDCAE34A263E90CB00A2D48A /* Nocturne-Serif-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33D263E90CB00A2D48A /* Nocturne-Serif-Bold.otf */; };
+		FDCAE34B263E90CB00A2D48A /* Nocturne-Serif-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33E263E90CB00A2D48A /* Nocturne-Serif-Medium.otf */; };
+		FDCAE34C263E90CB00A2D48A /* Nocturne-Serif-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33E263E90CB00A2D48A /* Nocturne-Serif-Medium.otf */; };
+		FDCAE34D263E90CB00A2D48A /* Nocturne-Serif-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33F263E90CB00A2D48A /* Nocturne-Serif-Regular.otf */; };
+		FDCAE34E263E90CB00A2D48A /* Nocturne-Serif-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE33F263E90CB00A2D48A /* Nocturne-Serif-Regular.otf */; };
+		FDCAE34F263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE340263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf */; };
+		FDCAE350263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FDCAE340263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf */; };
+		FDCAE35A263E93B800A2D48A /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE359263E93B800A2D48A /* Colors.swift */; };
+		FDCAE35B263E93B800A2D48A /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE359263E93B800A2D48A /* Colors.swift */; };
+		FDCAE35F263E941900A2D48A /* ColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE35E263E941900A2D48A /* ColorExtensions.swift */; };
+		FDCAE360263E941900A2D48A /* ColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE35E263E941900A2D48A /* ColorExtensions.swift */; };
+		FDCAE364263E96B800A2D48A /* FontManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE363263E96B800A2D48A /* FontManager.swift */; };
+		FDCAE365263E96B800A2D48A /* FontManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE363263E96B800A2D48A /* FontManager.swift */; };
+		FDCAE369263E972700A2D48A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE368263E972700A2D48A /* Constants.swift */; };
+		FDCAE36A263E972700A2D48A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE368263E972700A2D48A /* Constants.swift */; };
+		FDCAE36E263E981E00A2D48A /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE36D263E981E00A2D48A /* Task.swift */; };
+		FDCAE36F263E981E00A2D48A /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE36D263E981E00A2D48A /* Task.swift */; };
+		FDCAE37B263E9B2200A2D48A /* Tick.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE37A263E9B2200A2D48A /* Tick.swift */; };
+		FDCAE37C263E9B2200A2D48A /* Tick.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE37A263E9B2200A2D48A /* Tick.swift */; };
+		FDCAE382263E9D8000A2D48A /* LikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE381263E9D8000A2D48A /* LikeView.swift */; };
+		FDCAE383263E9D8000A2D48A /* LikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE381263E9D8000A2D48A /* LikeView.swift */; };
+		FDCAE387263E9F5B00A2D48A /* Plus.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE386263E9F5B00A2D48A /* Plus.swift */; };
+		FDCAE388263E9F5B00A2D48A /* Plus.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE386263E9F5B00A2D48A /* Plus.swift */; };
+		FDCAE38C263EAA0600A2D48A /* ShrinkingPLus.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE38B263EAA0600A2D48A /* ShrinkingPLus.swift */; };
+		FDCAE38D263EAA0600A2D48A /* ShrinkingPLus.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE38B263EAA0600A2D48A /* ShrinkingPLus.swift */; };
+		FDCAE391263EAD6800A2D48A /* CurvedLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE390263EAD6800A2D48A /* CurvedLine.swift */; };
+		FDCAE392263EAD6800A2D48A /* CurvedLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE390263EAD6800A2D48A /* CurvedLine.swift */; };
+		FDCAE398263EAFAA00A2D48A /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE397263EAFAA00A2D48A /* CustomTextField.swift */; };
+		FDCAE399263EAFAA00A2D48A /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE397263EAFAA00A2D48A /* CustomTextField.swift */; };
+		FDCAE3A1263EB3DC00A2D48A /* PatternOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3A0263EB3DC00A2D48A /* PatternOne.swift */; };
+		FDCAE3A2263EB3DC00A2D48A /* PatternOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3A0263EB3DC00A2D48A /* PatternOne.swift */; };
+		FDCAE3A6263EB4E600A2D48A /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3A5263EB4E600A2D48A /* ProfileView.swift */; };
+		FDCAE3A7263EB4E600A2D48A /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3A5263EB4E600A2D48A /* ProfileView.swift */; };
+		FDCAE3AD263EB61B00A2D48A /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3AC263EB61B00A2D48A /* TopBar.swift */; };
+		FDCAE3AE263EB61B00A2D48A /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3AC263EB61B00A2D48A /* TopBar.swift */; };
+		FDCAE3B2263EB81E00A2D48A /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3B1263EB81E00A2D48A /* TaskViewModel.swift */; };
+		FDCAE3B3263EB81E00A2D48A /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3B1263EB81E00A2D48A /* TaskViewModel.swift */; };
+		FDCAE3B7263EB91400A2D48A /* DefaultsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3B6263EB91400A2D48A /* DefaultsHandler.swift */; };
+		FDCAE3B8263EB91400A2D48A /* DefaultsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3B6263EB91400A2D48A /* DefaultsHandler.swift */; };
+		FDCAE3BC263EBC6500A2D48A /* DateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3BB263EBC6500A2D48A /* DateManager.swift */; };
+		FDCAE3BD263EBC6500A2D48A /* DateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3BB263EBC6500A2D48A /* DateManager.swift */; };
+		FDCAE3C3263ECA6100A2D48A /* FoundationExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3C2263ECA6100A2D48A /* FoundationExtensions.swift */; };
+		FDCAE3C4263ECA6100A2D48A /* FoundationExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3C2263ECA6100A2D48A /* FoundationExtensions.swift */; };
+		FDCAE3C8263ECB2A00A2D48A /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3C7263ECB2A00A2D48A /* TaskView.swift */; };
+		FDCAE3C9263ECB2A00A2D48A /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3C7263ECB2A00A2D48A /* TaskView.swift */; };
+		FDCAE3D1263ED18E00A2D48A /* TaskRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3D0263ED18E00A2D48A /* TaskRowView.swift */; };
+		FDCAE3D2263ED18E00A2D48A /* TaskRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3D0263ED18E00A2D48A /* TaskRowView.swift */; };
+		FDCAE3D6263ED5CE00A2D48A /* TaskAdditionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3D5263ED5CE00A2D48A /* TaskAdditionView.swift */; };
+		FDCAE3D7263ED5CE00A2D48A /* TaskAdditionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3D5263ED5CE00A2D48A /* TaskAdditionView.swift */; };
+		FDCAE3DB263EDC2600A2D48A /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3DA263EDC2600A2D48A /* SuccessView.swift */; };
+		FDCAE3DC263EDC2600A2D48A /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCAE3DA263EDC2600A2D48A /* SuccessView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +84,36 @@
 		FDCAE321263E8F6E00A2D48A /* Everyday-Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Everyday-Notes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDCAE323263E8F6E00A2D48A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FDCAE324263E8F6E00A2D48A /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		FDCAE338263E90CB00A2D48A /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		FDCAE339263E90CB00A2D48A /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		FDCAE33A263E90CB00A2D48A /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		FDCAE33B263E90CB00A2D48A /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		FDCAE33D263E90CB00A2D48A /* Nocturne-Serif-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nocturne-Serif-Bold.otf"; sourceTree = "<group>"; };
+		FDCAE33E263E90CB00A2D48A /* Nocturne-Serif-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nocturne-Serif-Medium.otf"; sourceTree = "<group>"; };
+		FDCAE33F263E90CB00A2D48A /* Nocturne-Serif-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nocturne-Serif-Regular.otf"; sourceTree = "<group>"; };
+		FDCAE340263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nocturne-Serif-SemiBold.otf"; sourceTree = "<group>"; };
+		FDCAE359263E93B800A2D48A /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		FDCAE35E263E941900A2D48A /* ColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtensions.swift; sourceTree = "<group>"; };
+		FDCAE363263E96B800A2D48A /* FontManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontManager.swift; sourceTree = "<group>"; };
+		FDCAE368263E972700A2D48A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		FDCAE36D263E981E00A2D48A /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		FDCAE37A263E9B2200A2D48A /* Tick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tick.swift; sourceTree = "<group>"; };
+		FDCAE381263E9D8000A2D48A /* LikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeView.swift; sourceTree = "<group>"; };
+		FDCAE386263E9F5B00A2D48A /* Plus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plus.swift; sourceTree = "<group>"; };
+		FDCAE38B263EAA0600A2D48A /* ShrinkingPLus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShrinkingPLus.swift; sourceTree = "<group>"; };
+		FDCAE390263EAD6800A2D48A /* CurvedLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedLine.swift; sourceTree = "<group>"; };
+		FDCAE397263EAFAA00A2D48A /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		FDCAE3A0263EB3DC00A2D48A /* PatternOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternOne.swift; sourceTree = "<group>"; };
+		FDCAE3A5263EB4E600A2D48A /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		FDCAE3AC263EB61B00A2D48A /* TopBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopBar.swift; sourceTree = "<group>"; };
+		FDCAE3B1263EB81E00A2D48A /* TaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewModel.swift; sourceTree = "<group>"; };
+		FDCAE3B6263EB91400A2D48A /* DefaultsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultsHandler.swift; sourceTree = "<group>"; };
+		FDCAE3BB263EBC6500A2D48A /* DateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateManager.swift; sourceTree = "<group>"; };
+		FDCAE3C2263ECA6100A2D48A /* FoundationExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundationExtensions.swift; sourceTree = "<group>"; };
+		FDCAE3C7263ECB2A00A2D48A /* TaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		FDCAE3D0263ED18E00A2D48A /* TaskRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskRowView.swift; sourceTree = "<group>"; };
+		FDCAE3D5263ED5CE00A2D48A /* TaskAdditionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskAdditionView.swift; sourceTree = "<group>"; };
+		FDCAE3DA263EDC2600A2D48A /* SuccessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +149,8 @@
 			children = (
 				FDCAE312263E8F6800A2D48A /* Everyday_NotesApp.swift */,
 				FDCAE313263E8F6800A2D48A /* ContentView.swift */,
+				FDCAE335263E909800A2D48A /* Code */,
+				FDCAE336263E90A700A2D48A /* Resources */,
 				FDCAE314263E8F6E00A2D48A /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -88,6 +180,154 @@
 				FDCAE324263E8F6E00A2D48A /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		FDCAE335263E909800A2D48A /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE358263E913400A2D48A /* Extensions */,
+				FDCAE357263E912800A2D48A /* Controllers */,
+				FDCAE356263E911E00A2D48A /* Model */,
+				FDCAE355263E911400A2D48A /* Modules */,
+				FDCAE354263E910B00A2D48A /* Utils */,
+				FDCAE353263E90FE00A2D48A /* Services */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		FDCAE336263E90A700A2D48A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE33C263E90CB00A2D48A /* Solomon */,
+				FDCAE337263E90CB00A2D48A /* Ubuntu */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FDCAE337263E90CB00A2D48A /* Ubuntu */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE338263E90CB00A2D48A /* Ubuntu-Medium.ttf */,
+				FDCAE339263E90CB00A2D48A /* Ubuntu-Regular.ttf */,
+				FDCAE33A263E90CB00A2D48A /* Ubuntu-Bold.ttf */,
+				FDCAE33B263E90CB00A2D48A /* Ubuntu-Light.ttf */,
+			);
+			path = Ubuntu;
+			sourceTree = "<group>";
+		};
+		FDCAE33C263E90CB00A2D48A /* Solomon */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE33D263E90CB00A2D48A /* Nocturne-Serif-Bold.otf */,
+				FDCAE33E263E90CB00A2D48A /* Nocturne-Serif-Medium.otf */,
+				FDCAE33F263E90CB00A2D48A /* Nocturne-Serif-Regular.otf */,
+				FDCAE340263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf */,
+			);
+			path = Solomon;
+			sourceTree = "<group>";
+		};
+		FDCAE353263E90FE00A2D48A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE3B6263EB91400A2D48A /* DefaultsHandler.swift */,
+				FDCAE3BB263EBC6500A2D48A /* DateManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		FDCAE354263E910B00A2D48A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE359263E93B800A2D48A /* Colors.swift */,
+				FDCAE363263E96B800A2D48A /* FontManager.swift */,
+				FDCAE368263E972700A2D48A /* Constants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		FDCAE355263E911400A2D48A /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE372263E98F000A2D48A /* Home */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		FDCAE356263E911E00A2D48A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE36D263E981E00A2D48A /* Task.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FDCAE357263E912800A2D48A /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FDCAE358263E913400A2D48A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE35E263E941900A2D48A /* ColorExtensions.swift */,
+				FDCAE3C2263ECA6100A2D48A /* FoundationExtensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		FDCAE372263E98F000A2D48A /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE373263E990500A2D48A /* View Models */,
+				FDCAE376263E993200A2D48A /* Support Shapes */,
+				FDCAE375263E992300A2D48A /* Support Views */,
+				FDCAE374263E991600A2D48A /* Views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		FDCAE373263E990500A2D48A /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE3B1263EB81E00A2D48A /* TaskViewModel.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		FDCAE374263E991600A2D48A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE3C7263ECB2A00A2D48A /* TaskView.swift */,
+				FDCAE3D0263ED18E00A2D48A /* TaskRowView.swift */,
+				FDCAE3D5263ED5CE00A2D48A /* TaskAdditionView.swift */,
+				FDCAE3DA263EDC2600A2D48A /* SuccessView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FDCAE375263E992300A2D48A /* Support Views */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE3A5263EB4E600A2D48A /* ProfileView.swift */,
+				FDCAE3AC263EB61B00A2D48A /* TopBar.swift */,
+			);
+			path = "Support Views";
+			sourceTree = "<group>";
+		};
+		FDCAE376263E993200A2D48A /* Support Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				FDCAE37A263E9B2200A2D48A /* Tick.swift */,
+				FDCAE381263E9D8000A2D48A /* LikeView.swift */,
+				FDCAE386263E9F5B00A2D48A /* Plus.swift */,
+				FDCAE38B263EAA0600A2D48A /* ShrinkingPLus.swift */,
+				FDCAE390263EAD6800A2D48A /* CurvedLine.swift */,
+				FDCAE397263EAFAA00A2D48A /* CustomTextField.swift */,
+				FDCAE3A0263EB3DC00A2D48A /* PatternOne.swift */,
+			);
+			path = "Support Shapes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,7 +408,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCAE345263E90CB00A2D48A /* Ubuntu-Bold.ttf in Resources */,
+				FDCAE343263E90CB00A2D48A /* Ubuntu-Regular.ttf in Resources */,
+				FDCAE349263E90CB00A2D48A /* Nocturne-Serif-Bold.otf in Resources */,
+				FDCAE347263E90CB00A2D48A /* Ubuntu-Light.ttf in Resources */,
+				FDCAE34D263E90CB00A2D48A /* Nocturne-Serif-Regular.otf in Resources */,
+				FDCAE341263E90CB00A2D48A /* Ubuntu-Medium.ttf in Resources */,
 				FDCAE329263E8F6E00A2D48A /* Assets.xcassets in Resources */,
+				FDCAE34F263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf in Resources */,
+				FDCAE34B263E90CB00A2D48A /* Nocturne-Serif-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,7 +424,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCAE346263E90CB00A2D48A /* Ubuntu-Bold.ttf in Resources */,
+				FDCAE344263E90CB00A2D48A /* Ubuntu-Regular.ttf in Resources */,
+				FDCAE34A263E90CB00A2D48A /* Nocturne-Serif-Bold.otf in Resources */,
+				FDCAE348263E90CB00A2D48A /* Ubuntu-Light.ttf in Resources */,
+				FDCAE34E263E90CB00A2D48A /* Nocturne-Serif-Regular.otf in Resources */,
+				FDCAE342263E90CB00A2D48A /* Ubuntu-Medium.ttf in Resources */,
 				FDCAE32A263E8F6E00A2D48A /* Assets.xcassets in Resources */,
+				FDCAE350263E90CB00A2D48A /* Nocturne-Serif-SemiBold.otf in Resources */,
+				FDCAE34C263E90CB00A2D48A /* Nocturne-Serif-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,8 +443,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCAE3BC263EBC6500A2D48A /* DateManager.swift in Sources */,
+				FDCAE398263EAFAA00A2D48A /* CustomTextField.swift in Sources */,
+				FDCAE3D1263ED18E00A2D48A /* TaskRowView.swift in Sources */,
+				FDCAE38C263EAA0600A2D48A /* ShrinkingPLus.swift in Sources */,
+				FDCAE3D6263ED5CE00A2D48A /* TaskAdditionView.swift in Sources */,
+				FDCAE3B7263EB91400A2D48A /* DefaultsHandler.swift in Sources */,
+				FDCAE382263E9D8000A2D48A /* LikeView.swift in Sources */,
+				FDCAE37B263E9B2200A2D48A /* Tick.swift in Sources */,
+				FDCAE364263E96B800A2D48A /* FontManager.swift in Sources */,
+				FDCAE387263E9F5B00A2D48A /* Plus.swift in Sources */,
 				FDCAE327263E8F6E00A2D48A /* ContentView.swift in Sources */,
+				FDCAE3A6263EB4E600A2D48A /* ProfileView.swift in Sources */,
+				FDCAE35A263E93B800A2D48A /* Colors.swift in Sources */,
 				FDCAE325263E8F6E00A2D48A /* Everyday_NotesApp.swift in Sources */,
+				FDCAE391263EAD6800A2D48A /* CurvedLine.swift in Sources */,
+				FDCAE35F263E941900A2D48A /* ColorExtensions.swift in Sources */,
+				FDCAE3DB263EDC2600A2D48A /* SuccessView.swift in Sources */,
+				FDCAE36E263E981E00A2D48A /* Task.swift in Sources */,
+				FDCAE3C8263ECB2A00A2D48A /* TaskView.swift in Sources */,
+				FDCAE369263E972700A2D48A /* Constants.swift in Sources */,
+				FDCAE3C3263ECA6100A2D48A /* FoundationExtensions.swift in Sources */,
+				FDCAE3A1263EB3DC00A2D48A /* PatternOne.swift in Sources */,
+				FDCAE3AD263EB61B00A2D48A /* TopBar.swift in Sources */,
+				FDCAE3B2263EB81E00A2D48A /* TaskViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +474,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCAE3BD263EBC6500A2D48A /* DateManager.swift in Sources */,
+				FDCAE399263EAFAA00A2D48A /* CustomTextField.swift in Sources */,
+				FDCAE3D2263ED18E00A2D48A /* TaskRowView.swift in Sources */,
+				FDCAE38D263EAA0600A2D48A /* ShrinkingPLus.swift in Sources */,
+				FDCAE3D7263ED5CE00A2D48A /* TaskAdditionView.swift in Sources */,
+				FDCAE3B8263EB91400A2D48A /* DefaultsHandler.swift in Sources */,
+				FDCAE383263E9D8000A2D48A /* LikeView.swift in Sources */,
+				FDCAE37C263E9B2200A2D48A /* Tick.swift in Sources */,
+				FDCAE365263E96B800A2D48A /* FontManager.swift in Sources */,
+				FDCAE388263E9F5B00A2D48A /* Plus.swift in Sources */,
 				FDCAE328263E8F6E00A2D48A /* ContentView.swift in Sources */,
+				FDCAE3A7263EB4E600A2D48A /* ProfileView.swift in Sources */,
+				FDCAE35B263E93B800A2D48A /* Colors.swift in Sources */,
 				FDCAE326263E8F6E00A2D48A /* Everyday_NotesApp.swift in Sources */,
+				FDCAE392263EAD6800A2D48A /* CurvedLine.swift in Sources */,
+				FDCAE360263E941900A2D48A /* ColorExtensions.swift in Sources */,
+				FDCAE3DC263EDC2600A2D48A /* SuccessView.swift in Sources */,
+				FDCAE36F263E981E00A2D48A /* Task.swift in Sources */,
+				FDCAE3C9263ECB2A00A2D48A /* TaskView.swift in Sources */,
+				FDCAE36A263E972700A2D48A /* Constants.swift in Sources */,
+				FDCAE3C4263ECA6100A2D48A /* FoundationExtensions.swift in Sources */,
+				FDCAE3A2263EB3DC00A2D48A /* PatternOne.swift in Sources */,
+				FDCAE3AE263EB61B00A2D48A /* TopBar.swift in Sources */,
+				FDCAE3B3263EB81E00A2D48A /* TaskViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
